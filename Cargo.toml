@@ -3,6 +3,11 @@ name = "rs-bloom2count"
 version = "0.1.0"
 edition = "2021"
 
+description = "stdin(bloom bits) -> stdout(estimated count)"
+license = "Apache-2.0"
+documentation = "https://docs.rs/crate/rs-bloom2count/latest"
+repository = "https://github.com/takanoriyanagitani/rs-bloom2count"
+
 [lints.rust]
 unsafe_code = "forbid"
 
